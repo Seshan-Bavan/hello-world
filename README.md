@@ -17,3 +17,7 @@ Another example
 
 * Bullet points
 * More bullet points
+
+http://google.com
+
+[Google NZ](http://google.co.nz) 
